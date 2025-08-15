@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ritesh-Portfolio/static/css/main.995d34ab.css",
+    "main.js": "/Ritesh-Portfolio/static/js/main.9efa343d.js",
+    "static/js/453.96453769.chunk.js": "/Ritesh-Portfolio/static/js/453.96453769.chunk.js",
+    "static/media/profile.png": "/Ritesh-Portfolio/static/media/profile.afe13325a43e9dbccb7b.png",
+    "index.html": "/Ritesh-Portfolio/index.html",
+    "main.995d34ab.css.map": "/Ritesh-Portfolio/static/css/main.995d34ab.css.map",
+    "main.9efa343d.js.map": "/Ritesh-Portfolio/static/js/main.9efa343d.js.map",
+    "453.96453769.chunk.js.map": "/Ritesh-Portfolio/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995d34ab.css",
+    "static/js/main.9efa343d.js"
+  ]
+}
